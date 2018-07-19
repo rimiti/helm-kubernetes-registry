@@ -1,0 +1,5 @@
+imageCredentials:
+  secretName: example-registry-secret
+  registry: registry.gitlab.com
+  username: gitlab+deploy-token-xxxx
+  password: xx_xxxxxx_xxxxxxxx
