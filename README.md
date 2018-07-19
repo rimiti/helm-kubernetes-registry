@@ -2,7 +2,7 @@
 
 ## Description
 
-This helm create registry secret for pulling Docker images.
+This helm create registry secret for pulling Docker images from external registry.
 
 ## Installation
 
